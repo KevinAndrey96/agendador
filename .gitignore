@@ -1,0 +1,13 @@
+# Registros y archivos locales
+error_log
+*.log
+nodcms/logs/*
+!nodcms/logs/index.html
+
+# Sistema operativo e IDEs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+nbproject/
+*.tmp
